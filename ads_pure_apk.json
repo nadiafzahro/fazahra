@@ -1,13 +1,13 @@
 {
     "Ads": [
         {
-            "on_off_ads": "off",
-            "banner_type": "admob",
+            "on_off_ads": "on",
+            "banner_type": "facebook",
             "inters_type": "admob",
-            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-            "admob_inters": "ca-app-pub-3940256099942544/1033173712",
-            "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "facebook_inters": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "admob_banner": "ca-app-pub-6183692340317142/8290574245",
+            "admob_inters": "ca-app-pub-6183692340317142/3936396267",
+            "facebook_banner": "269480754028231_882669862709314",
+            "facebook_inters": "269480754028231_269481917361448",
             "interval_inters": 3
         }
     ]
