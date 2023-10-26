@@ -2,7 +2,7 @@
     "Ads": [
         {
             "on_off_ads": "on",
-            "banner_type": "facebook",
+            "banner_type": "admob",
             "inters_type": "admob",
             "admob_banner": "ca-app-pub-6183692340317142/8290574245",
             "admob_inters": "ca-app-pub-6183692340317142/3936396267",
