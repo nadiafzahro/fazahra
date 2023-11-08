@@ -2,12 +2,12 @@
     "Ads": [
         {
             "on_off_ads": "on",
-            "banner_type": "admob",
-            "inters_type": "admob",
+            "banner_type": "facebook",
+            "inters_type": "facebook",
             "admob_banner": "ca-app-pub-6183692340317142/2682018440",
             "admob_inters": "ca-app-pub-6183692340317142/7998650656",
-            "facebook_banner": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
-            "facebook_inters": "IMG_16_9_APP_INSTALL#YOUR_PLACEMENT_ID",
+            "facebook_banner": "768680357257512_768680907257457",
+            "facebook_inters": "768680357257512_1466735830785291",
             "interval_inters": 6,
             "//first_comment":  "jumlah iklan interstisial jika ditulis 10 maka yang tampil dibagi 2 - jadi yang tampil 5 "
         }
