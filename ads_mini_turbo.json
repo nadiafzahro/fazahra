@@ -2,9 +2,9 @@
     "Ads": [
         {
             "on_off_ads": "on",
-            "banner_type": "off",
+            "banner_type": "admob",
             "inters_type": "admob",
-            "admob_banner": "ca-app-pub-3940256099942544/6300978111",
+            "admob_banner": "ca-app-pub-6183692340317142/2682018440",
             "admob_inters": "ca-app-pub-6183692340317142/7998650656",
             "facebook_banner": "768680357257512_768680907257457",
             "facebook_inters": "768680357257512_1466735830785291",
