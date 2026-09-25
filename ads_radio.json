@@ -1,10 +1,10 @@
 {
   "Ads": [
     {
-      "on_off_ads": "off",
-      "admob_banner": "ca-app-pub-3940256099942544/6300978111",
-      "admob_inters": "ca-app-pub-3940256099942544/1033173712",
-      "interval_inters": 6
+      "on_off_ads": "on",
+      "admob_banner": "ca-app-pub-6183692340317142/3748564126",
+      "admob_inters": "ca-app-pub-6183692340317142/2425332799",
+      "interval_inters": 3
     }
   ]
 }
